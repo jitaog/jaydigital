@@ -1,0 +1,7 @@
+0000.000 (1) Opened log file at time: Tue, 02 May 2023 18:43:52 +0000 on http://localhost:8888/jaydigital
+0000.000 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.3 WP: 6.2 PHP: 7.4.33 (apache2handler, Darwin Justins-MacBook-Pro-2.local 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:03:51 PST 2022; root:xnu-8792.61.2~4/RELEASE_ARM64_T6000 arm64) MySQL: 5.7.39 (max packet size=4194304) WPLANG: en_US Server: Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/7.4.33 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 12M | 14M) multisite: N openssl: OpenSSL 1.0.2u  20 Dec 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 (1) Free space on disk containing Updraft's temporary directory: 686077.6 MB
+0000.002 (1) Requesting backup semaphore lock (6da5971e702d)
+0000.002 (1) [Debug] Lock option (updraft_lock_6da5971e702d, wp_options) was created in the database
+0000.002 (1) [Info] Lock (updraft_lock_6da5971e702d, wp_options) acquired after initialising the database
+0000.002 (1) This backup task (6da5971e702d) is either complete or began over 2 days ago: ending (1683053032.6232, ) (existing jobdata keys: )
